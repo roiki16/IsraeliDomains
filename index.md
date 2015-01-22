@@ -33,7 +33,7 @@ title: השוואת מחירים של רשמי שמות מתחם ישראלים
 [IP Mirror]:      http://www.ipmirror.com
 [InterSpace]:     http://www.internic.co.il/isoc.html
 [box]:            http://box.co.il
-
+[up]:             http://up.co.il
 [isoc-logo]:       http://www.isoc.org.il/images_n/isoc_logo.png
 [box-logo]:        http://www.isoc.org.il/images_n/registrars/logo-GI.png
 [webline-logo]:    http://www.isoc.org.il/images_n/registrars/logo-PG.png
